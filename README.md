@@ -9,4 +9,16 @@ Java技术书籍大全：<https://github.com/sorenduan/awesome-java-books>
 
 mall商城项目：<https://github.com/macrozheng/mall>
 
+中国男性之恶：<https://github.com/CNwoman-bot/evil-man>
+
+LeetCode打卡：
+
+- <https://github.com/azl397985856/leetcode>
+- <https://github.com/Blankj/awesome-java-leetcode>
+
+Windows好软推荐：<https://github.com/Awesome-Windows/Awesome>
+
+IDEAz中文教程：<https://github.com/tengj/IntelliJ-IDEA-Tutorial>
+
+
 
