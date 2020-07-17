@@ -18,7 +18,7 @@ LeetCode打卡：
 
 Windows好软推荐：<https://github.com/Awesome-Windows/Awesome>
 
-IDEAz中文教程：<https://github.com/tengj/IntelliJ-IDEA-Tutorial>
+IDEA中文教程：<https://github.com/tengj/IntelliJ-IDEA-Tutorial>
 
 
 
